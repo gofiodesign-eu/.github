@@ -26,6 +26,4 @@ We bridge the gap between **digital infrastructure** and **territorial sustainab
 ### ⚡ Fun Fact
 "Gofio" is the heart of Canarian heritage—a traditional flour made from toasted grains. Much like this staple food, our studio takes raw, local elements and processes them into interdisciplinary solutions that sustain and grow the community.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GofioDesign&show_icons=true&theme=nord" alt="GofioDesign GitHub Stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gofiodesign-eu&theme=highcontrast&hide_border=true&locale=es&short_numbers=true)](https://git.io/streak-stats)
